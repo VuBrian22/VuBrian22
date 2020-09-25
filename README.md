@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Image of Profile Banner](https://github.com/VuBrian22/VuBrian22/blob/master/profilebanner.jpg)
 
 <!--
 **VuBrian22/VuBrian22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
