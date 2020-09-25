@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![Image of Profile Banner](https://github.com/VuBrian22/VuBrian22/blob/master/profilebanner.jpg)
 
 <!--
