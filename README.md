@@ -1,6 +1,6 @@
 ![Image of Profile Banner](https://github.com/VuBrian22/VuBrian22/blob/master/profilebanner.jpg)
 ### Hello there! 👋
-I code on occasion, believe it or not. I'm a dedicated person to the workings of digital security and information security. If you have any concerns or questions about me, you can message me on Instagram [Instagram](https://www.instagram.com/brianvu.infosec/)
+I code on occasion, believe it or not. I'm a dedicated person to the workings of digital security and information security. If you have any concerns or questions about me, you can message me on [Instagram](https://www.instagram.com/brianvu.infosec/).
 <!--
 **VuBrian22/VuBrian22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
